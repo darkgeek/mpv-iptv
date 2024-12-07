@@ -12,7 +12,7 @@ RUN
 
 CONTROL
 
-	\ or Mouse right click — to show/hide playlist
+	\ or MENU or Mouse right click — to show/hide playlist
 
 	UP/DOWN or Mouse scroll — to navigate
 
